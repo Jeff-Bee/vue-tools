@@ -19,9 +19,9 @@
     "core-js": "^2.6.5"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.5.0",
-    "@vue/cli-plugin-eslint": "^3.5.0",
-    "@vue/cli-service": "^3.5.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
